@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">social app</string>
+  <string name="no_data">No Data</string>
+  <string name="search_by_title">Search by title</string>
+  <string name="search_error">there is no such title</string>
+  <string name="social_error">there is no category</string>
+  <string name="social_details_preview">this is the category title some text to test the appearance of
+        the view It\'s time for a truly uncompromising smartphone. One that was designed and
+        manufactured by technical enthusiasts - in close coordination with the future users. A
+        smartphone that perfectly combines fascinating technology, groundbreaking design and
+        breakthrough innovation. It is time for the OnePlus 3. But do not rely on our word. Convince
+        yourself.
+    </string>
+  <string name="social_title_preview">this is the category title</string>
+  <string name="category">Social</string>
+  <string name="no_internet">Please check your internet connection</string>
+  <string name="network_error">Network error, could get data,please try again!</string>
+  <string name="products">Products</string>
+  <string name="product">Product</string>
+  <string name="category_home">Record List</string>
+  <string name="no_record">Sorry no data found</string>
+  <string name="price">Price :</string>
+  <string name="pledge">PLEDGE</string>
+  <string name="label_fund">FUNDED</string>
+  <string name="lbl_goals">GOALS</string>
+  <string name="lbl_ends">ENDS IN</string>
+</resources>
